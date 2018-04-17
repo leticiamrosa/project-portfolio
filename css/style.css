@@ -1,0 +1,19 @@
+
+
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+a:hover {
+  cursor: pointer;
+}
+
+#bg-1 {
+  background-image: url('../img/cover.jpg');
+  background-attachment: fixed;
+  height: 700px;
+  max-height: 900px;
+
+}
